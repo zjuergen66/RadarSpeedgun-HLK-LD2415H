@@ -21,7 +21,7 @@ either 3S lipo or 3 LiIon cells 18650 of your choice.
 * stl-files for 3D-printable casing included
 
 ## Run ##
-connect balancer plug for power (or insert 3 LiIon cells). Aim at traffic, observe continuous 
+connect balancer plug for power (or insert 3 LiIon cells, cell holder not included). Aim at traffic, observe continuous 
 periodic measurements of approaching and departing vehicles and persons.
 In detail: top row has latest measurement on the left and fastest measurement of last 3 seconds on right, 
 the second row shows diagnostic info
